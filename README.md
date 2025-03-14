@@ -1,7 +1,7 @@
 # 🐝 Cybee - Discord Verification & Protection Bot
 
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](https://cybee.pro)
-[![Discord Bot](https://img.shields.io/badge/Discord-Bot-5865F2.svg)](https://discord.com/api/oauth2/authorize?client_id=YOURCLIENTID&permissions=0x10021c4809&scope=bot%20applications.commands)
+[![Discord Bot](https://img.shields.io/badge/Discord-Bot-5865F2.svg)](https://discord.com/api/oauth2/authorize?client_id=1348425041905451028&permissions=0x10021c4809&scope=bot%20applications.commands)
 [![Website](https://img.shields.io/badge/Website-Cybee.pro-F4CE14.svg)](https://cybee.pro)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
 [![Made with Love](https://img.shields.io/badge/Made%20with-♥-ff69b4.svg)]()
